@@ -1,4 +1,4 @@
-# PRODIGY_ML_4
+# ML
 # Hand Gesture Recognition using CNN ✋🤖
 
 ## Overview
